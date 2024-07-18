@@ -1,3 +1,4 @@
+ qa_branch
 THE BEST OMELETTE QA BRANCH
 
 
@@ -11,3 +12,11 @@ for new conflict
 
 
 here changes remote
+
+
+
+OMELLETE RECIPE
+
+1. whisk eggs
+2. add milk
+3.cook
